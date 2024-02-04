@@ -1,4 +1,5 @@
 ## Payments app
+
  - This is a payments app where you can send money to you friend
   who can also register on the website. (Note: no real payment
   gateway is used, this project is to under stand how payments apps
