@@ -8,3 +8,6 @@
   express.js, mongoDB, tailwindCSS.
   - Features of the project is the user can register, login, search for a
   friend, send money, view balance.
+
+<hr>
+<h3>Signup Route:</h3>
