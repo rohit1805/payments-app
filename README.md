@@ -11,3 +11,8 @@
 
 <hr>
 <h3>Signup Route:</h3>
+<div align="center">
+    <img src="/screenshots/signup.png" width="400px"</img> 
+</div>
+
+
